@@ -1,9 +1,9 @@
 {
   "name": "webproxy",
   "version": "1.0.0",
-  "main": "Analytic.js",  
+  "main": "Analystic.js",  
   "scripts": {
-    "start": "node Analytic.js"  
+    "start": "node Analystic.js"  
   },
   "dependencies": {
     "express": "^4.17.1",  
