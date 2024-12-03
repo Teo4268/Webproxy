@@ -1,12 +1,12 @@
 {
   "name": "webproxy",
   "version": "1.0.0",
-  "main": "Analytic.js",
-  "dependencies": {
-    "express": "^4.17.1",
-    "http-proxy-middleware": "^2.0.0"
-  },
+  "main": "Analytic.js",  // Chỉ định file chính là Analytic.js
   "scripts": {
-    "start": "node analytic1.js"
+    "start": "node Analytic.js"  // Lệnh để chạy ứng dụng
+  },
+  "dependencies": {
+    "express": "^4.17.1",  // Các thư viện phụ thuộc
+    "http-proxy-middleware": "^2.0.0"
   }
 }
