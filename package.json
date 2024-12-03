@@ -1,0 +1,12 @@
+{
+  "name": "analytic-proxy",
+  "version": "1.0.0",
+  "main": "Analytic.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "http-proxy-middleware": "^2.0.0"
+  },
+  "scripts": {
+    "start": "node analytic1.js"
+  }
+}
