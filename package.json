@@ -1,5 +1,5 @@
 {
-  "name": "analytic-proxy",
+  "name": "webproxy",
   "version": "1.0.0",
   "main": "Analytic.js",
   "dependencies": {
