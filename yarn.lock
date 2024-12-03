@@ -1,9 +1,0 @@
-"express@4.17.1":
-  version "4.17.1"
-  resolved "https://registry.yarnpkg.com/express/-/express-4.17.1.tgz#b3ac36c5a482f45690ab4d24b3dbf87f0f7170ac"
-  integrity sha512-xFkLU2Q9Aw==
-
-"http-proxy-middleware@2.0.0":
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/http-proxy-middleware/-/http-proxy-middleware-2.0.0.tgz#5c6bb48d0b2278b4419d83964cf62b05640f4a5a"
-  integrity sha512-P+5UewA==
